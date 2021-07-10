@@ -1,3 +1,5 @@
 {
-    "base_url": "https://api.nbet.com"
+    "data": {
+        "base_url": "https://api.nbet.com"
+    }
 }
